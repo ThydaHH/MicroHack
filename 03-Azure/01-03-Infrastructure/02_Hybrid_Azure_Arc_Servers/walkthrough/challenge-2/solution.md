@@ -107,7 +107,7 @@ Please ensure that you successfully passed [challenge 1](../../Readme.md#challen
 
 9. Navigate to Azure Arc, select Machines, repeat step 10 for your Windows and Linux servers.
 
-10. Select Updates. If there are no update information dispayed yet, click *Check for updates* and wait until missing updates appear. Then click on *One-time update* or *Schedule updates* if you would like to postpone the installation to a later point in time. (follow the wizzard).
+10. Select Updates. If there are no update information displayed yet, click *Check for updates* and wait until missing updates appear. Then click on *One-time update* or *Schedule updates* if you would like to postpone the installation to a later point in time. (follow the wizzard).
 
 ![image](./img/4.10_Update_Management.png)
 
